@@ -5,10 +5,10 @@
 just click in it :) \
 then create fork \
 2- u should see clone of repo but in ur acc \
-clone it via ssh or http
+clone it via ssh or http \
 
 **u should set ssh key in ur device** 
-if u dont [click here](#set-ssh)
+if u dont [click here](#set-ssh) \
 
 
 
@@ -19,9 +19,7 @@ if u dont [click here](#set-ssh)
 4- add ur c++ code here name it like this ( lab<lab num>_<ur stu id> ) \
 5- now add ur file in git \
 > git add <ur file name> \
-```diff
-- please add only ur c++ file do not use git add . 
-``` \
+**please add only ur c++ file do not use git add** 
 > git commit -m "< ur stu id> <lab num>" \
 > git push \
 6- now from github click on Pull request -> New pull request \
