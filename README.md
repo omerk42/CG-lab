@@ -6,11 +6,11 @@ just click in it :)
 then create fork
 2- u should see clone of repo but in ur acc
 clone it via ssh or http
-```diff
-! u should set ssh key in ur device
-! if u dont [click here](#set-ssh)
 
-```
+**u should set ssh key in ur device**
+if u dont [click here](#set-ssh)
+
+
 
 > git clone <url of repo>
 > cd <cloned folder name>
